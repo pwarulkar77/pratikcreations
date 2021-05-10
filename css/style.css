@@ -161,7 +161,7 @@ box-sizing:border-box;
 }
 /* for shadow of col */
 .company-col:hover{
-    box-shadow:0 0 20px 0px rgba(0,0,0,0.2);
+    box-shadow:0 0 20px 0px rgba(182, 135, 35, 0.808);
     transition:0.5s;
 }
 
@@ -197,7 +197,7 @@ p{
 /* box for course column */
 .SERVICES-col{
 flex-basis: 31%;
-background: #80d8ee;
+background:#fff3f3;
 border-radius: 10px;
 margin-bottom: 5%;
 padding:20px 12px;
@@ -211,7 +211,7 @@ h3{
 }
 /* for shadow of column */
 .SERVICES-col:hover{
-    box-shadow:0 0 20px 0px rgba(0,0,0,0.2);
+    box-shadow:0 0 20px 0px rgba(182, 135, 35, 0.808);
     transition:0.5s;
 }
 
@@ -252,7 +252,7 @@ h3{
 
 }
 .layer:hover{
-    background: rgba(226,0,0,0.7);
+    background: rgba(81, 139, 139, 0.7);
 
 }
 .layer h3{
